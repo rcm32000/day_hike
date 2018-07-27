@@ -77,7 +77,7 @@ to see a show page for that specific trail.
 
 ### Trail Show page
 
-### Correction for following user story
+### Suggestion for following user story
 According to schema.rb, a trip has only name, start_date, and end_date
 ```
 As a visitor,
